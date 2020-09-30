@@ -1,6 +1,7 @@
 Kaffeine
 ========
 Kaffeine is a Kotlin-flavored Android library for accelerating development.
+where Kotlin is basically like Java, C and C++ also is a “statically typed programming language” i.e. languages in which variables need not be defined before they are used.
 
 Several Words of Caution
 ------------------------
